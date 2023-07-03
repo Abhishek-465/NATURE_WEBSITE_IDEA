@@ -1,0 +1,212 @@
+@media only screen and (max-width:1104px){
+    .wrapper{
+        height: 120px;
+    }
+    header{
+        height: 132px;
+    }
+
+    .slider img{
+    height:45vh;
+}
+nav{
+    display:flex;
+    padding: 12px 0;
+}
+.article img{
+    height: 55vh;
+    width: 75vw;
+}
+.one{
+    height: 32vh;
+}
+.two img{
+    height: 32vh;
+}
+
+}
+@media only screen and (max-width: 958px){
+    nav ul li{
+        padding-left: 30px;
+    }
+    .article{
+        font-size: 18px;
+    }
+    .section{
+        font-size: 18px;
+    }
+    .article img{
+        height: 50vh;
+        width: 70vw;
+    }
+    .one{
+        width: 26vw;
+    }
+    .two img{
+        width:26vw;
+    }
+}
+@media only screen and (max-width:742px){
+    nav ul li{
+        padding-left: 20px;
+    }
+    .article{
+        font-size: 17px;
+    }
+    .section{
+        font-size: 17px;
+    }
+    header{
+        height: 125px;
+    }
+    .logo img{
+        height: 50px;
+        width:50px;
+    }
+    .wrapper{
+        height: 96px;
+    }
+    .wave{
+        height: 1192px;
+        left:97%;
+    }
+    .article img{
+        height: 45vh;
+        width: 65vw;
+    }
+    .one{
+        width:30vw;
+    }
+    .two img{
+        width:30vw;
+    }
+}
+@media only screen and (max-width:650px){
+    nav ul li{
+        padding-left: 18px;
+        font-size: 13px;
+    }
+    .wrapper{
+        height: 96px;
+    }
+    .wave{
+        height: 2012px;
+        left:97%;
+    }
+    .slider img{
+        height:27vh;
+    }
+    .article{
+        font-size: 16px;
+    }
+    .section{
+        font-size: 16px;
+    }
+    .article img{
+        height: 40vh;
+        width: 60vw;
+    }
+}
+@media only screen and (max-width:550px){
+    nav ul li{
+        padding-left: 16px;
+        font-size: 11px;
+    }
+    .wrapper{
+        height: 93px;
+    }
+    .wave{
+        height: 2112px;
+        left:97%;
+    }
+    .article{
+        font-size: 15px;
+    }
+    .article img{
+        height: 35vh;
+        width: 55vw;
+    }
+    .section{
+        font-size: 15px;
+    }
+}
+    @media only screen and (max-width:486px){
+        nav ul li{
+            padding-left: 13px;
+            font-size: 8px;
+        }
+        .logo{
+            padding-bottom: 12px;
+
+        }
+        nav ul li{
+            padding-left: 23px;
+        }
+        .article{
+            font-size: 14px;
+        }
+        .section{
+            font-size: 14px;
+        }
+        
+        .one{
+            height: 29vh;
+            font-size: 12px;
+        }
+        .two img{
+            height: 29vh;
+        }
+        .article img{
+            height: 30vh;
+            width: 50vw;
+        }
+    }
+    @media only screen and (max-width:442px){
+        nav ul li{
+            padding-left: 11px;
+            font-size: 8px;
+        }
+        .article{
+            font-size: 13px;
+        }
+        .section{
+            font-size: 13px;
+        }
+        .article img{
+            height: 30vh;
+            width: 60vw;
+        }
+    }
+    @media only screen and (max-width:376px){
+        nav ul li{
+            padding-left: 9px;
+            font-size: 7px;
+        }
+        .article{
+            font-size: 12px;
+        }
+        .section{
+            font-size: 12px;
+        }
+        .one{
+            font-size: 10px;
+        }
+    }
+    @media only screen and (max-width:332px){
+        nav ul li{
+            padding-left: 5px;
+            font-size: 7px;
+        }
+        .slider img{
+            height:22vh;
+        }
+    }
+    @media only screen and (max-width:250px){
+        nav ul li{
+            padding-left: 3px;
+        }
+        .two img{
+            height:26vh;
+        }
+    }
+
